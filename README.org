@@ -16,6 +16,8 @@ As usual care was taken not to measure anything, as this may impede the creative
 - Panel ply was used for right plastic boxes
 - Slot sizes made to accommodate plastic parts boxes
 
+* Progress
+Before installation of right hand slots.
 
 #+CAPTION: Front
 [[file:pics/front.jpg]]
@@ -23,12 +25,17 @@ As usual care was taken not to measure anything, as this may impede the creative
 #+CAPTION: Side
 [[file:pics/side.jpg]]
 
-Before installation of right hand slots.
 
 * Shelves
   :PROPERTIES:
   :CUSTOM_ID: shelves
   :END:
+
+Shelves are build into the carcas with glued and screwed 7mm spacers that form
+rabbits between which the 7mm ply shelves are bounded. No silly cut rabbits.
+Only do this if you have a lot of 'scrap' plywood laying around and the odds of
+getting close to a 100 routing cuts accurate is inconsistent with past
+experience.
 
 #+CAPTION: Left Detail
 [[file:pics/detail/left-detail.jpg]]
@@ -39,8 +46,6 @@ Before installation of right hand slots.
 #+CAPTION: Right Detail
 [[file:pics/detail/right-detail.jpg]]
 
-Shelves are build into the carcas with glued and screwed 7mm spacers that form
-rabbits between which the 7mm ply shelves are bounded. No silly cut rabbits.
 
 * Notes
   :PROPERTIES:
