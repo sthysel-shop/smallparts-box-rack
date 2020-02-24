@@ -1,0 +1,49 @@
+* Small parts box rack
+  :PROPERTIES:
+  :CUSTOM_ID: small-parts-box-rack
+  :END:
+
+Here's another fine example in my current line of fine artisanal hand-crafted
+pieces, I call it: 'OC small parts rack', its a small parts rack for small
+parts.
+
+#+CAPTION: Final
+[[file:pics/final.jpg]]
+
+- Construction grade ply for solid frame, and racks
+- Panel ply was used for right plastic boxes
+- Slot sizes made to accommodate plastic parts boxes
+
+
+#+CAPTION: Front
+[[file:pics/front.jpg]]
+
+#+CAPTION: Side
+[[file:pics/side.jpg]]
+
+Before installation of right hand slots.
+
+* Shelves
+  :PROPERTIES:
+  :CUSTOM_ID: shelves
+  :END:
+
+#+CAPTION: Left Detail
+[[file:pics/detail/left-detail.jpg]]
+
+#+CAPTION: Left Detail 2
+[[file:pics/detail/left-detail2.jpg]]
+
+#+CAPTION: Right Detail
+[[file:pics/detail/right-detail.jpg]]
+
+Shelves are build into the carcas with glued and screwed 7mm spacers that form
+rabbits between which the 7mm ply shelves are bounded. No silly cut rabbits.
+
+* Notes
+  :PROPERTIES:
+  :CUSTOM_ID: notes
+  :END:
+
+ - 1200x940x330mm 19mm ply coated with water based polyutherane applied with an Ozito self-pressured spray-gun.
+ - 65mm 40kg coasters
