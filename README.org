@@ -1,3 +1,5 @@
+#+title: Small parts box rack
+
 * Small parts box rack
   :PROPERTIES:
   :CUSTOM_ID: small-parts-box-rack
