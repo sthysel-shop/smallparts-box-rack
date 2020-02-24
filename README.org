@@ -3,9 +3,11 @@
   :CUSTOM_ID: small-parts-box-rack
   :END:
 
-Here's another fine example in my current line of fine artisanal hand-crafted
-pieces, I call it: 'OC small parts rack', its a small parts rack for small
-parts.
+Here's another fine example in my current line of fine artisanal hand-cobbled
+pieces, I call it: 'Objective Compulsive small parts rack', its a small parts rack for small
+parts. It may be useful for stacking boxes of small parts.
+
+As usual care was taken not to measure anything, as this may impede the creative process. 
 
 #+CAPTION: Final
 [[file:pics/final.jpg]]
